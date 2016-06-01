@@ -17,4 +17,4 @@ such as palette generators.
 ```python
     from chromic5 import *
 ```
-*more usage instuctions will be updated soon...*
+*more usage instructions will be updated soon...*
