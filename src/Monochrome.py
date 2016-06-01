@@ -1,6 +1,6 @@
 import random
-from HEX2HSL import *
-from HSL2HEX import *
+from .HEX2HSL import *
+from .HSL2HEX import *
 class Monochrome:
     
     def monocolors(self,RGB=None,n=None):
