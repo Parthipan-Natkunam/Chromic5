@@ -14,7 +14,7 @@ such as palette generators.
 ##Usage
 - Please install the library on your machine.
 - After installing the library import it to your project source:
-```
-    from chromic 5 import *
+```python
+    from chromic5 import *
 ```
 *more usage instuctions will be updated soon...*
