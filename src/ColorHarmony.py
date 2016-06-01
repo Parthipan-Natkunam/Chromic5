@@ -1,6 +1,6 @@
 import random
-from HEX2HSL import *
-from HSL2HEX import *
+from .HEX2HSL import *
+from .HSL2HEX import *
 class ColorHarmony:
     def __init__(self):
         self.H = 0
