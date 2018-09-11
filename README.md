@@ -1,4 +1,4 @@
-# Chromic5
+# Chromic5    [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c12c0424f9834197a571a3f1d4011b47)](https://www.codacy.com/app/Parthipan-Natkunam/Chromic5?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Parthipan-Natkunam/Chromic5&amp;utm_campaign=Badge_Grade)
 A color theory based color scheme generation library for python 3
 
 ## Details
