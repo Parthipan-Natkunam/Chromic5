@@ -19,7 +19,6 @@ class RandomPalette:
             B = "0" + B
         self.RGB = "#"+R+G+B
         return(self.RGB)
-    
     #Grey Pallette Generator
     def greycolors(self):
         R = hex(random.choice(self.C_list))[2:]
