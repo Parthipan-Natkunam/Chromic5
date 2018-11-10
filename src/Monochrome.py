@@ -1,8 +1,7 @@
 import random
 from .HEX2HSL import *
 from .HSL2HEX import *
-class Monochrome:
-    
+class Monochrome:  
     def monocolors(self,RGB=None,n=None):
         if n is None:
             self.n = 2
@@ -48,4 +47,3 @@ class Monochrome:
             final_RGB[i] = res_RGB.getHEX()
         final_RGB[self.n-1] = self.RGB
         return(final_RGB)
-    
