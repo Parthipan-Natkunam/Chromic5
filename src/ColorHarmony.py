@@ -122,5 +122,3 @@ class ColorHarmony:
             final_RGB[i] = res_RGB.getHEX()
         final_RGB[self.n-1]=self.RGB
         return(final_RGB)
-
-    
