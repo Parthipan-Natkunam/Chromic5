@@ -6,7 +6,6 @@ A color scheme generation library for python to simplify the coding of color and
 such as palette generators.
 
 ## Video Demo
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b72b4f8f8f81485d9c52ad4a4dcc033b)](https://app.codacy.com/app/Parthipan-Natkunam/Chromic5?utm_source=github.com&utm_medium=referral&utm_content=Parthipan-Natkunam/Chromic5&utm_campaign=Badge_Grade_Settings)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Z-Ris04jfjw/0.jpg)](https://www.youtube.com/watch?v=Z-Ris04jfjw)
 
 ## Usage
