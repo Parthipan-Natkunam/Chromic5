@@ -39,6 +39,3 @@ class HEX2HSL:
     def getHSL(self):
         self.HSL = [self.H,self.S,self.L]
         return(self.HSL)
-        
-            
-            
